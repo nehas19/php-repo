@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<source xmlns="http://xml.phpdox.net/token">
+  <file xmlns="http://xml.phpdox.net/src" path="../ecomm_project" file="Address.php" realpath="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/Address.php" size="739" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="d2c152145d8c4e65c79eb9d2773ae29e1f6bce91" relative="Address.php"/>
+  <line no="1"/>
+  <line no="2"/>
+  <line no="3"/>
+  <line no="4">
+    <token name="T_INLINE_HTML">&lt;html&gt;</token>
+  </line>
+  <line no="5">
+    <token name="T_INLINE_HTML">&lt;head&gt;</token>
+  </line>
+  <line no="6">
+    <token name="T_INLINE_HTML">&lt;link rel="stylesheet" type="text/css" href="css/bodyCss.css"&gt;</token>
+  </line>
+  <line no="7">
+    <token name="T_INLINE_HTML">&lt;/head&gt;</token>
+  </line>
+  <line no="8">
+    <token name="T_INLINE_HTML">&lt;div id="body"&gt;</token>
+  </line>
+  <line no="9">
+    <token name="T_INLINE_HTML">&lt;form  action="AddressDetails.php" method="POST" style="text-align: center;font:xx-large;" theme="simple"&gt;</token>
+  </line>
+  <line no="10">
+    <token name="T_INLINE_HTML">&lt;pre&gt;</token>
+  </line>
+  <line no="11">
+    <token name="T_INLINE_HTML">	&lt;b&gt;Full Name : &lt;/b&gt;&lt;input type="text" name="FullName" id="FullName"&gt;&lt;/br&gt;</token>
+  </line>
+  <line no="12">
+    <token name="T_INLINE_HTML">	&lt;b&gt;Mobile No.: &lt;/b&gt;&lt;input type="text" name="Mobile" id="Mobile"&gt;&lt;br/&gt;</token>
+  </line>
+  <line no="13">
+    <token name="T_INLINE_HTML">	&lt;b&gt;Address Details :&lt;/b&gt;&lt;textarea name="Address" rows="10" cols="30" id="Address"&gt;&lt;/textarea&gt;</token>
+  </line>
+  <line no="14">
+    <token name="T_INLINE_HTML">	&lt;b&gt;State : &lt;/b&gt;&lt;input type="text" name="State" id="State"&gt;&lt;br/&gt;</token>
+  </line>
+  <line no="15">
+    <token name="T_INLINE_HTML">	&lt;b&gt;City : &lt;/b&gt;&lt;input type="text" name="City" id="City"&gt;&lt;br/&gt;</token>
+  </line>
+  <line no="16">
+    <token name="T_INLINE_HTML">	&lt;b&gt;Pin Code : &lt;/b&gt;&lt;input type="number" name="PinCode" id="PinCode"&gt;&lt;br/&gt;</token>
+  </line>
+  <line no="17">
+    <token name="T_INLINE_HTML">	&lt;/pre&gt;</token>
+  </line>
+  <line no="18">
+    <token name="T_INLINE_HTML">	&lt;input type="submit" value="add detail"&gt;</token>
+  </line>
+  <line no="19">
+    <token name="T_INLINE_HTML">	</token>
+  </line>
+  <line no="20">
+    <token name="T_INLINE_HTML">	</token>
+  </line>
+  <line no="21"/>
+  <line no="22">
+    <token name="T_INLINE_HTML">&lt;/form&gt;</token>
+  </line>
+  <line no="23">
+    <token name="T_INLINE_HTML">&lt;/div&gt;</token>
+  </line>
+  <line no="24"/>
+  <line no="25">
+    <token name="T_INLINE_HTML">&lt;/html&gt;</token>
+  </line>
+  <line no="26"/>
+  <line no="27"/>
+</source>

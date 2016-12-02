@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<source xmlns="http://xml.phpdox.net/src">
+  <dir name="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project">
+    <file name="Sever_User_Email_Validation.php" size="1219" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="b24fae8dc8e038aca7927a6d2dfb3eba30e3d2b4" xml="tokens/Sever_User_Email_Validation.php.xml"/>
+    <file name="update_query.php" size="163" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="4fafa8f8f639d90c0cde39c99803256e64d3b698" xml="tokens/update_query.php.xml"/>
+    <file name="HeaderHtml.php" size="5966" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="bfa2ee70ac4625c0e81273a95eb424f806b7df24" xml="tokens/HeaderHtml.php.xml"/>
+    <file name="user_details.php" size="1199" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="6024f7312485854366614252fe1bc9f163509d1e" xml="tokens/user_details.php.xml"/>
+    <file name="ThankyouPageIncluded.php" size="113" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="5f4ff5bfc508501ad6610b879bb63f62c2ba4587" xml="tokens/ThankyouPageIncluded.php.xml"/>
+    <file name="AddAddressIncluded.php" size="108" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="a93cc98715a9e7ee1caf9c00538d8cc19e61baf6" xml="tokens/AddAddressIncluded.php.xml"/>
+    <file name="ProductViewPage.php" size="4880" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="3368060fab4069918a90d151d8fb20c1a2c777bd" xml="tokens/ProductViewPage.php.xml"/>
+    <file name="Address.php" size="739" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="d2c152145d8c4e65c79eb9d2773ae29e1f6bce91" xml="tokens/Address.php.xml"/>
+    <file name="Confirm.php" size="1324" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="2da1c488633a676d61e334677d278a363dd4f4bd" xml="tokens/Confirm.php.xml"/>
+    <file name="AdminLogout.php" size="159" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="0c48c9c4dc603481f6f50bee76f24045e45eeb94" xml="tokens/AdminLogout.php.xml"/>
+    <file name="Helper.php" size="3271" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="3c3865a70df4d56c32ade1b2c1d479fcafc9fa35" xml="tokens/Helper.php.xml"/>
+    <file name="AboutusCustIncluded.php" size="112" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="bf7fb4697759fc1e7959db8f7049bc65bdd8e7e6" xml="tokens/AboutusCustIncluded.php.xml"/>
+    <file name="update1_query.php" size="178" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="49eae12e410bb8b1f744787211f44055bc6d89fe" xml="tokens/update1_query.php.xml"/>
+    <file name="SuccessAddedUserPageIncluded.php" size="140" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="d1b9f31373c2a3c93fbb2ccda188e4b197bc63e7" xml="tokens/SuccessAddedUserPageIncluded.php.xml"/>
+    <file name="adminResponse.php" size="167" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="1b5c31492aa697a0d9c255e39db7269d5bb78be6" xml="tokens/adminResponse.php.xml"/>
+    <file name="add_product.php" size="1412" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="c3bee98e50a62241dbd46261f8b35e790972bd62" xml="tokens/add_product.php.xml"/>
+    <file name="BodyUpdateAddress.php" size="1341" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="ba65028242bfbfade2c3091bc2d34687c9d101d3" xml="tokens/BodyUpdateAddress.php.xml"/>
+    <file name="Navigation.php" size="94" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="0fcb7f5c5ff3dc57ffa0912d2aa086e2973059e3" xml="tokens/Navigation.php.xml"/>
+    <file name="adminBodyContent.php" size="1474" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="1e814609d6121392a0972000e3122a727674c721" xml="tokens/adminBodyContent.php.xml"/>
+    <file name="index.php" size="103" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="a74a7a9c19ccf90f5e6f8bf263810680490e8688" xml="tokens/index.php.xml"/>
+    <file name="LoginPageIncluded.php" size="132" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="452ea17f80f1f06d6628d98eaf31ba24fa7fb8ba" xml="tokens/LoginPageIncluded.php.xml"/>
+    <file name="AddToCartPageIncluded.php" size="125" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="022c84ad84168efff9c0ea70e94c772483b610fc" xml="tokens/AddToCartPageIncluded.php.xml"/>
+    <file name="Summary.php" size="196" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="1827c75a616f31eb49a22ed2ee19791da7d6afa7" xml="tokens/Summary.php.xml"/>
+    <file name="adminDashbordIncluded.php" size="223" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="955ed3733b937f881e2dcbdc0ad7638b2aee2da6" xml="tokens/adminDashbordIncluded.php.xml"/>
+    <file name="AddressDetails.php" size="490" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="3015683c8eea2764f8763965bcfc15d06e9ff227" xml="tokens/AddressDetails.php.xml"/>
+    <file name="Header.php" size="927" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="95c82d53ee71ee56547e8f1a037698310349fc4f" xml="tokens/Header.php.xml"/>
+    <file name="UpdateAddressDetails.php" size="500" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="73ce624d6026ca76eb64414fc4036ce27c8cf6aa" xml="tokens/UpdateAddressDetails.php.xml"/>
+    <file name="LoginCheck.php" size="240" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="6e6a1f85693a573eb27015ed8449d46d50e49f9c" xml="tokens/LoginCheck.php.xml"/>
+    <file name="SignOutPageincluded.php" size="75" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="16749939d359980dfaf78d8137e93a669173be80" xml="tokens/SignOutPageincluded.php.xml"/>
+    <file name="BodyOrderSummery.php" size="2196" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="b6ff74f1649dbffb6cd1bb34fb362385fae5cbd8" xml="tokens/BodyOrderSummery.php.xml"/>
+    <file name="OrderSummaryPageIncluded.php" size="128" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="0143140db8ca1fb00e30f9aa7eaa9e0f4f7efcb5" xml="tokens/OrderSummaryPageIncluded.php.xml"/>
+    <file name="admin.php" size="171" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="4b56c72a6b367633971b31cee14983a7d597ac2c" xml="tokens/admin.php.xml"/>
+    <file name="Validate.php" size="268" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="271e8f172a18b053532c59d5f4de8768e727b62d" xml="tokens/Validate.php.xml"/>
+    <file name="updateAddressIncluded.php" size="112" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="2bb17821bfd78d4a75160e59cd0573e9df06d81c" xml="tokens/updateAddressIncluded.php.xml"/>
+    <file name="stringconvert.php" size="903" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="03b938dea01905e2179deccd30100ebd7c9ee578" xml="tokens/stringconvert.php.xml"/>
+    <file name="GenericClass.php" size="2085" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="ec30da0d9ddd52f50ab531c1f2edfb2ef1eda540" xml="tokens/GenericClass.php.xml"/>
+    <file name="Success.php" size="644" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="ff3d7c3ea107b72e8bd6c9e34b136e13424a7d44" xml="tokens/Success.php.xml"/>
+    <file name="BodyAddToCart.php" size="1411" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="623edb7abc7b47eb8ee94263e291d7550d39af83" xml="tokens/BodyAddToCart.php.xml"/>
+    <file name="BodySignup.php" size="1092" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="ecd308305cee34947c1ef791df5de5aac5fa5996" xml="tokens/BodySignup.php.xml"/>
+    <file name="Product.php" size="3909" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="f31a8f1393615adc547d1f6b675e5cb7deb40113" xml="tokens/Product.php.xml"/>
+    <file name="BodyHome.php" size="1799" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="b602fb3e87aa7b48ad45b785cf5493224afc4ba6" xml="tokens/BodyHome.php.xml"/>
+    <file name="MainIncluded.php" size="126" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="b61c15058b0d7f78739f150862383d256fb9a432" xml="tokens/MainIncluded.php.xml"/>
+    <file name="SignupPageIncluded.php" size="132" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="1e3e0a77fd97c02e10bf7f157b5b44f0b0d73ece" xml="tokens/SignupPageIncluded.php.xml"/>
+    <file name="delete_query.php" size="162" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="c64c065af6c5350e83837f73d5d356dc17d32a88" xml="tokens/delete_query.php.xml"/>
+    <file name="config1.php" size="281" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="5a89a684a1bfc7f3ed44e0fd973eaed8edc20a6b" xml="tokens/config1.php.xml"/>
+    <file name="fetch_query.php" size="1874" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="dd917228ddf95680a4a5f490431b14a6c21376d1" xml="tokens/fetch_query.php.xml"/>
+    <file name="Helper_page.php" size="1260" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="109f5d6c32a174025a01844def393212caa6447a" xml="tokens/Helper_page.php.xml"/>
+  </dir>
+</source>

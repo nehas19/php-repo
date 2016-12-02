@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index xmlns="http://xml.phpdox.net/src" basedir="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project">
+  <namespace name="">
+    <class name="Sever_User_Email_Validation" src="Sever_User_Email_Validation.php" description="ever_User_Email_Validation class performs server side email validation" xml="classes/Sever_User_Email_Validation.xml"/>
+    <class name="Helper" src="Helper.php" description="A Helper class which consists all the functions required for CRUD operations" xml="classes/Helper.xml"/>
+    <class name="GenericClass" src="GenericClass.php" description="A Generic class which defines two methods for checking login credentials and Items in the cart" xml="classes/GenericClass.xml"/>
+    <class name="Product" src="Product.php" description="roduct class consist of all CRUD operations of a products" xml="classes/Product.xml"/>
+    <class name="Config" src="config1.php" description="he Config class is a class where you declare all the credential of your project" xml="classes/Config.xml"/>
+    <class name="Helper_page" src="Helper_page.php" description="This Helper_page class consist of a function required for LIMIT query in ProductViewPage.php" xml="classes/Helper_page.xml"/>
+  </namespace>
+</index>

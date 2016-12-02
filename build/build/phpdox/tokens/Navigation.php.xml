@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<source xmlns="http://xml.phpdox.net/token">
+  <file xmlns="http://xml.phpdox.net/src" path="../ecomm_project" file="Navigation.php" realpath="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/Navigation.php" size="94" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="0fcb7f5c5ff3dc57ffa0912d2aa086e2973059e3" relative="Navigation.php"/>
+  <line no="1">
+    <token name="T_INLINE_HTML">&lt;div id="nav"&gt;</token>
+  </line>
+  <line no="2">
+    <token name="T_INLINE_HTML">&lt;a class="semi-transparent-button" href="add_product.php"&gt; ADD &lt;/a&gt;&lt;br/&gt;</token>
+  </line>
+  <line no="3">
+    <token name="T_INLINE_HTML">&lt;/div&gt;</token>
+  </line>
+</source>

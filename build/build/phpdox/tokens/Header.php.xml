@@ -1,0 +1,67 @@
+<?xml version="1.0"?>
+<source xmlns="http://xml.phpdox.net/token">
+  <file xmlns="http://xml.phpdox.net/src" path="../ecomm_project" file="Header.php" realpath="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/Header.php" size="927" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="95c82d53ee71ee56547e8f1a037698310349fc4f" relative="Header.php"/>
+  <line no="1">
+    <token name="T_INLINE_HTML">&lt;nav class="navbar navbar-inverse navbar-fixed-top"&gt;</token>
+  </line>
+  <line no="2">
+    <token name="T_INLINE_HTML">    &lt;div class="container-fluid"&gt;</token>
+  </line>
+  <line no="3">
+    <token name="T_INLINE_HTML">        &lt;div class="navbar-header"&gt;</token>
+  </line>
+  <line no="4">
+    <token name="T_INLINE_HTML">          &lt;button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"&gt;</token>
+  </line>
+  <line no="5">
+    <token name="T_INLINE_HTML">            &lt;span class="sr-only"&gt;Toggle navigation&lt;/span&gt;</token>
+  </line>
+  <line no="6">
+    <token name="T_INLINE_HTML">            &lt;span class="icon-bar"&gt;&lt;/span&gt;</token>
+  </line>
+  <line no="7">
+    <token name="T_INLINE_HTML">            &lt;span class="icon-bar"&gt;&lt;/span&gt;</token>
+  </line>
+  <line no="8">
+    <token name="T_INLINE_HTML">            &lt;span class="icon-bar"&gt;&lt;/span&gt;</token>
+  </line>
+  <line no="9">
+    <token name="T_INLINE_HTML">          &lt;/button&gt;</token>
+  </line>
+  <line no="10">
+    <token name="T_INLINE_HTML">          &lt;a class="navbar-brand" href="index.php"&gt;E-Commerce&lt;/a&gt;</token>
+  </line>
+  <line no="11">
+    <token name="T_INLINE_HTML">        &lt;/div&gt;</token>
+  </line>
+  <line no="12">
+    <token name="T_INLINE_HTML">        &lt;div id="navbar" class="navbar-collapse collapse"&gt;</token>
+  </line>
+  <line no="13">
+    <token name="T_INLINE_HTML">          &lt;ul class="nav navbar-nav navbar-right"&gt;</token>
+  </line>
+  <line no="14">
+    <token name="T_INLINE_HTML">            &lt;li&gt;&lt;A href="../adminDashbordIncluded.php"&gt;HOME&lt;/A&gt;&lt;/li&gt;</token>
+  </line>
+  <line no="15">
+    <token name="T_INLINE_HTML">            &lt;li&gt;&lt;a href="html/AboutUs.html"&gt; About Us&lt;/a&gt;&lt;/li&gt;</token>
+  </line>
+  <line no="16">
+    <token name="T_INLINE_HTML">            &lt;li&gt;&lt;a href="AdminLogout.php"&gt; Log OUT&lt;/a&gt;&lt;/li&gt;</token>
+  </line>
+  <line no="17">
+    <token name="T_INLINE_HTML">          &lt;/ul&gt;</token>
+  </line>
+  <line no="18">
+    <token name="T_INLINE_HTML">         </token>
+  </line>
+  <line no="19">
+    <token name="T_INLINE_HTML">        &lt;/div&gt;</token>
+  </line>
+  <line no="20">
+    <token name="T_INLINE_HTML">    &lt;/div&gt;</token>
+  </line>
+  <line no="21">
+    <token name="T_INLINE_HTML">&lt;/nav&gt;</token>
+  </line>
+</source>

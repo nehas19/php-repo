@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pmd version="1.5.0" timestamp="2015-05-05T12:21:50+05:30">
+  <file name="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/Product.php">
+    <violation beginline="34" endline="34" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$helper'.
+    </violation>
+    <violation beginline="37" endline="37" rule="UnusedLocalVariable" ruleset="Unused Code Rules" externalInfoUrl="http://phpmd.org/rules/unusedcode.html#unusedlocalvariable" priority="3">
+      Avoid unused local variables such as '$helper'.
+    </violation>
+  </file>
+  <file name="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/stringconvert.php">
+    <violation beginline="15" endline="45" rule="CyclomaticComplexity" ruleset="Code Size Rules" package="+global" externalInfoUrl="http://phpmd.org/rules/codesize.html#cyclomaticcomplexity" function="stringConvert1" priority="3">
+      The function stringConvert1() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.
+    </violation>
+  </file>
+</pmd>

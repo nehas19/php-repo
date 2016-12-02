@@ -1,0 +1,203 @@
+<?xml version="1.0"?>
+<source xmlns="http://xml.phpdox.net/token">
+  <file xmlns="http://xml.phpdox.net/src" path="../ecomm_project" file="BodyAddToCart.php" realpath="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/BodyAddToCart.php" size="1411" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="623edb7abc7b47eb8ee94263e291d7550d39af83" relative="BodyAddToCart.php"/>
+  <line no="1">
+    <token name="T_INLINE_HTML">&lt;pre&gt;</token>
+  </line>
+  <line no="2">
+    <token name="T_INLINE_HTML">&lt;link rel="stylesheet" type="text/css" href="css/bodyCss.css"&gt;</token>
+  </line>
+  <line no="3">
+    <token name="T_INLINE_HTML">&lt;div id="body"&gt;</token>
+  </line>
+  <line no="4">
+    <token name="T_INLINE_HTML">&lt;h1 style="color:MediumVioletRed;text-align:center"&gt;&lt;font face="BedRock"&gt;Your Cart&lt;/h1&gt;</token>
+  </line>
+  <line no="5">
+    <token name="T_INLINE_HTML">&lt;table class="table table-striped table-bordered" border="3"&gt;</token>
+  </line>
+  <line no="6">
+    <token name="T_INLINE_HTML">	&lt;thead&gt;</token>
+  </line>
+  <line no="7">
+    <token name="T_INLINE_HTML">		&lt;tr&gt;</token>
+  </line>
+  <line no="8">
+    <token name="T_INLINE_HTML">			&lt;th width="13%"&gt;&lt;font face="BedRock" color="DarkSlateGray"&gt;Product Name&lt;/th&gt;</token>
+  </line>
+  <line no="9">
+    <token name="T_INLINE_HTML">			&lt;th width="10%"&gt;&lt;font face="BedRock" color="DarkSlateGray"&gt;Price&lt;/th&gt;</token>
+  </line>
+  <line no="10">
+    <token name="T_INLINE_HTML">			&lt;th width="15%"&gt;&lt;font face="BedRock" color="DarkSlateGray"&gt;Image Name&lt;/th&gt;</token>
+  </line>
+  <line no="11">
+    <token name="T_INLINE_HTML">			&lt;th width="35"&gt;&lt;font face="BedRock" color="DarkSlateGray"&gt;Image&lt;/th&gt;</token>
+  </line>
+  <line no="12">
+    <token name="T_INLINE_HTML">			&lt;th width="27%"&gt;&lt;font face="BedRock" color="DarkSlateGray"&gt;Description &lt;/th&gt;</token>
+  </line>
+  <line no="13">
+    <token name="T_INLINE_HTML">		&lt;/tr&gt;</token>
+  </line>
+  <line no="14">
+    <token name="T_INLINE_HTML">	&lt;/thead&gt;</token>
+  </line>
+  <line no="15">
+    <token name="T_OPEN_TAG">&lt;?php</token>
+  </line>
+  <line no="16">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_INCLUDE_ONCE">include_once</token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">"stringconvert.php"</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="17">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_VARIABLE">$var</token>
+    <token name="T_PHPDOX_EQUAL">=</token>
+    <token name="T_VARIABLE">$_SERVER</token>
+    <token name="T_PHPDOX_OPEN_SQUARE">[</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'QUERY_STRING'</token>
+    <token name="T_PHPDOX_CLOSE_SQUARE">]</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="18">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_VARIABLE">$_SESSION</token>
+    <token name="T_PHPDOX_OPEN_SQUARE">[</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'key'</token>
+    <token name="T_PHPDOX_CLOSE_SQUARE">]</token>
+    <token name="T_PHPDOX_EQUAL">=</token>
+    <token name="T_VARIABLE">$var</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="19">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_VARIABLE">$price</token>
+    <token name="T_PHPDOX_EQUAL">=</token>
+    <token name="T_LNUMBER">0</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="20">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_VARIABLE">$arra</token>
+    <token name="T_PHPDOX_EQUAL">=</token>
+    <token name="T_PHPDOX_OPEN_SQUARE">[</token>
+    <token name="T_PHPDOX_CLOSE_SQUARE">]</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="21">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_VARIABLE">$arra</token>
+    <token name="T_PHPDOX_EQUAL">=</token>
+    <token name="T_ARRAY">array</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_STRING">explode</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">"&amp;"</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_STRING">str_replace</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'%2F'</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'/'</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_STRING">str_replace</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'%2C'</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">','</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_STRING">urldecode</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_STRING">html_entity_decode</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_VARIABLE">$_SESSION</token>
+    <token name="T_PHPDOX_OPEN_SQUARE">[</token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">'key'</token>
+    <token name="T_PHPDOX_CLOSE_SQUARE">]</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="22">
+    <token name="T_WHITESPACE">	 </token>
+    <token name="T_COMMENT">// Its conversion of querystring data into Array Format</token>
+  </line>
+  <line no="23">
+    <token name="T_WHITESPACE">	</token>
+  </line>
+  <line no="24">
+    <token name="T_WHITESPACE">	</token>
+  </line>
+  <line no="25">
+    <token name="T_WHITESPACE">	</token>
+    <token name="T_STRING">stringConvert1</token>
+    <token name="T_PHPDOX_OPEN_BRACKET">(</token>
+    <token name="T_VARIABLE">$arra</token>
+    <token name="T_PHPDOX_COMMA">,</token>
+    <token name="T_VARIABLE">$price</token>
+    <token name="T_PHPDOX_CLOSE_BRACKET">)</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="26">
+    <token name="T_ECHO">echo</token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">"&lt;/tr&gt;"</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="27"/>
+  <line no="28">
+    <token name="T_CLOSE_TAG">?&gt;</token>
+  </line>
+  <line no="29">
+    <token name="T_INLINE_HTML">		&lt;tr&gt;</token>
+  </line>
+  <line no="30">
+    <token name="T_INLINE_HTML">		&lt;td colspan="4"&gt;&lt;h4 style="color:Maroon;text-align:center "&gt;Total Price&lt;/h4&gt;&lt;/td&gt;</token>
+  </line>
+  <line no="31">
+    <token name="T_INLINE_HTML">		&lt;td&gt;&lt;h4 style="color:Maroon;text-align:center"&gt;</token>
+    <token name="T_OPEN_TAG">&lt;?php </token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_ECHO">echo</token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_VARIABLE">$price</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+    <token name="T_CLOSE_TAG">?&gt;</token>
+    <token name="T_INLINE_HTML">&lt;/h4&gt;&lt;/td&gt;</token>
+  </line>
+  <line no="32">
+    <token name="T_INLINE_HTML">		&lt;/tr&gt;</token>
+  </line>
+  <line no="33">
+    <token name="T_INLINE_HTML">&lt;/table&gt;</token>
+  </line>
+  <line no="34">
+    <token name="T_INLINE_HTML">&lt;form action="Summary.php" method="POST"&gt;</token>
+  </line>
+  <line no="35">
+    <token name="T_INLINE_HTML">&lt;input type="submit" class="btn btn-info" value="Confirm Order"/&gt;&amp;nbsp;&lt;input type="button" value="Cancel"</token>
+  </line>
+  <line no="36">
+    <token name="T_INLINE_HTML">class="btn btn-info" id="cancel_addtoCart"/&gt;</token>
+  </line>
+  <line no="37">
+    <token name="T_INLINE_HTML">&lt;/form&gt;</token>
+  </line>
+  <line no="38">
+    <token name="T_INLINE_HTML">&lt;/div&gt;</token>
+  </line>
+  <line no="39">
+    <token name="T_INLINE_HTML">&lt;/pre&gt;</token>
+  </line>
+  <line no="40"/>
+</source>

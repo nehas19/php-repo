@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<source xmlns="http://xml.phpdox.net/token">
+  <file xmlns="http://xml.phpdox.net/src" path="../ecomm_project" file="add_product.php" realpath="/var/lib/jenkins/jobs/pallavi_php/workspace/ecomm_project/add_product.php" size="1412" time="2015-04-20T19:01:52+05:30" unixtime="1429536712" sha1="c3bee98e50a62241dbd46261f8b35e790972bd62" relative="add_product.php"/>
+  <line no="1">
+    <token name="T_OPEN_TAG">&lt;?php </token>
+  </line>
+  <line no="2">
+    <token name="T_INCLUDE_ONCE">include_once</token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">"html/adminHeader.html"</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="3">
+    <token name="T_CLOSE_TAG">?&gt;</token>
+  </line>
+  <line no="4"/>
+  <line no="5">
+    <token name="T_INLINE_HTML">&lt;div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2"&gt;</token>
+  </line>
+  <line no="6">
+    <token name="T_INLINE_HTML">&lt;h2&gt;</token>
+  </line>
+  <line no="7">
+    <token name="T_INLINE_HTML">&lt;form style="align:center" action="Product.php" enctype="multipart/form-data" method="post"&gt;</token>
+  </line>
+  <line no="8">
+    <token name="T_INLINE_HTML">&lt;div&gt;</token>
+  </line>
+  <line no="9">
+    <token name="T_INLINE_HTML">&lt;pre&gt;</token>
+  </line>
+  <line no="10">
+    <token name="T_INLINE_HTML">&lt;font color="GoldenRod"  face="Bedrock" size="03"&gt;</token>
+  </line>
+  <line no="11">
+    <token name="T_INLINE_HTML">&lt;b&gt;Product Name : &lt;/b&gt;&amp;nbsp;&amp;nbsp;&lt;input type="text" name="product_name" id="pn" placeholder="Enter Product Name" autofocus required/&gt;&lt;/br&gt;</token>
+  </line>
+  <line no="12">
+    <token name="T_INLINE_HTML">&lt;b&gt;Price       : &lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;input type="text" name="price" id="price" placeholder="Enter Price" required/&gt;&lt;/br&gt;</token>
+  </line>
+  <line no="13">
+    <token name="T_INLINE_HTML">&lt;b&gt;Image Name  : &lt;/b&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;input type="text" name="image_name" id="in" placeholder="Enter Image Name" required/&gt;&lt;/br&gt;</token>
+  </line>
+  <line no="14">
+    <token name="T_INLINE_HTML">&lt;b&gt;Image Path  : &lt;/b&gt;&lt;/br&gt;&amp;nbsp;&amp;nbsp;&lt;input type="file" class="btn btn-warning" name="image_path" required/&gt;</token>
+  </line>
+  <line no="15">
+    <token name="T_INLINE_HTML">&lt;!-- &lt;b&gt;Description : &lt;/b&gt;&lt;textarea name="description" rows="10" cols="25" placeholder="Enter Description" required&gt;&lt;/textarea&gt;&lt;/br&gt;--&gt;</token>
+  </line>
+  <line no="16">
+    <token name="T_INLINE_HTML">&lt;b&gt;&lt;p&gt;Description :&lt;/p&gt;&lt;/b&gt;</token>
+  </line>
+  <line no="17">
+    <token name="T_INLINE_HTML">&lt;div&gt;&lt;textarea name="description" cols="38" rows="4" placeholder="Enter Description" required&gt;&lt;/textarea&gt;&lt;/div&gt;</token>
+  </line>
+  <line no="18">
+    <token name="T_INLINE_HTML">&lt;/font&gt;</token>
+  </line>
+  <line no="19">
+    <token name="T_INLINE_HTML">&lt;input type="submit" class="btn btn-warning" value="Add/Update" /&gt; &lt;button type="button" class="btn btn-warning" onclick="newDoc()"&gt;Cancel&lt;/button&gt;</token>
+  </line>
+  <line no="20">
+    <token name="T_INLINE_HTML">&lt;input type="hidden" name="operation" value="add"/&gt;</token>
+  </line>
+  <line no="21">
+    <token name="T_INLINE_HTML">&lt;/pre&gt;</token>
+  </line>
+  <line no="22">
+    <token name="T_INLINE_HTML">&lt;/div&gt;</token>
+  </line>
+  <line no="23">
+    <token name="T_INLINE_HTML">&lt;/form&gt;</token>
+  </line>
+  <line no="24">
+    <token name="T_INLINE_HTML">&lt;/h2&gt;</token>
+  </line>
+  <line no="25">
+    <token name="T_INLINE_HTML">&lt;/div&gt;</token>
+  </line>
+  <line no="26"/>
+  <line no="27">
+    <token name="T_OPEN_TAG">&lt;?php </token>
+  </line>
+  <line no="28">
+    <token name="T_INCLUDE_ONCE">include_once</token>
+    <token name="T_WHITESPACE"> </token>
+    <token name="T_CONSTANT_ENCAPSED_STRING">"html/adminNavigation.html"</token>
+    <token name="T_PHPDOX_SEMICOLON">;</token>
+  </line>
+  <line no="29">
+    <token name="T_CLOSE_TAG">?&gt;</token>
+  </line>
+  <line no="30"/>
+</source>
