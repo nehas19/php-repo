@@ -1,4 +1,4 @@
-<?php
+<?ph
 
 require("ecomm_project/config1.php");
 class ConfigTest extends PHPUnit_Framework_TestCase
